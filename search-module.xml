@@ -22,7 +22,7 @@
     </test>
 
     <test name="search-keyword 3">
-        <parameter name="searchKeyword" value="zalenium:q:q"/>
+        <parameter name="searchKeyword" value="zalenium"/>
         <classes>
             <class name="com.searchmodule.tests.SearchTest"/>
         </classes>
