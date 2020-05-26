@@ -8,21 +8,21 @@
     </test>
 
     <test name="search-keyword 1">
-        <parameter name="searchKeyword" value="selenium"/>
+        <parameter name="searchKeyword" value="java"/>
         <classes>
             <class name="com.searchmodule.tests.SearchTest"/>
         </classes>
     </test>
 
     <test name="search-keyword 2">
-        <parameter name="searchKeyword" value="selenium"/>
+        <parameter name="searchKeyword" value="radium"/>
         <classes>
             <class name="com.searchmodule.tests.SearchTest"/>
         </classes>
     </test>
 
     <test name="search-keyword 3">
-        <parameter name="searchKeyword" value="selenium"/>
+        <parameter name="searchKeyword" value="zalenium:q:q"/>
         <classes>
             <class name="com.searchmodule.tests.SearchTest"/>
         </classes>
