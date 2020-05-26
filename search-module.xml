@@ -1,0 +1,30 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="search-module">
+    <test name="search-keyword">
+        <parameter name="searchKeyword" value="selenium"/>
+        <classes>
+            <class name="com.searchmodule.tests.SearchTest"/>
+        </classes>
+    </test>
+
+    <test name="search-keyword 1">
+        <parameter name="searchKeyword" value="selenium"/>
+        <classes>
+            <class name="com.searchmodule.tests.SearchTest"/>
+        </classes>
+    </test>
+
+    <test name="search-keyword 2">
+        <parameter name="searchKeyword" value="selenium"/>
+        <classes>
+            <class name="com.searchmodule.tests.SearchTest"/>
+        </classes>
+    </test>
+
+    <test name="search-keyword 3">
+        <parameter name="searchKeyword" value="selenium"/>
+        <classes>
+            <class name="com.searchmodule.tests.SearchTest"/>
+        </classes>
+    </test>
+</suite>
